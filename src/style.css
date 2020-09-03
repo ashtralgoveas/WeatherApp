@@ -228,11 +228,11 @@ body {
   }
   button {
     position: absolute;
-    top: 80%;
+    top: 90%;
   }
   small {
     position: absolute;
-    top: 50%;
+    top: 60%;
     right: 5%;
     font-size: 15px;
     padding: 1%;
